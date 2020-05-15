@@ -1,0 +1,91 @@
+﻿.nav-button { display: none; } /* hide the navigation button by default */
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+
+	/* Navigation Button
+	-------------------------------------------------------- */
+
+	.nav-button {
+		display: block;
+		position: absolute;
+		top: 8px;
+		right: 7px;
+		width: 50px;
+		height: 45px;
+		background: url('../images/menu-icon-large.png');
+		background: url('../images/menu-icon-large.png');
+		background: url('../images/menu-icon-large.png');
+		background: url('../images/menu-icon-large.png');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: 21px, 100%;
+		cursor: pointer;
+		border: 0 none;
+		z-index: 999;
+		text-indent: -9999px;
+	}
+	.nav-button:hover { 
+	border: none;
+	}
+	.nav-button.open {
+		background: url('../images/close-icon-large.png');
+		background: url('../images/close-icon-large.png');
+		background: url('../images/close-icon-large.png');
+		background: url('../images/close-icon-large.png');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: 21px, 100%;
+	}
+
+	/* Navigation Bar
+	-------------------------------------------------------- */
+
+	body { padding-top: 50px; } 
+
+	.menu {
+		width: 30%;
+		float: right;
+		background-color: #fff; /* change the menu color */
+		display: block;
+		height: 20px;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		position: absolute;
+		top: 5px;
+		right: 5px;
+		z-index: 998;
+		clear: both;
+	}
+	.menu li {
+		display: none;
+		width: 100%;
+	}
+	.menu li a {
+		display: block;
+		width: 90%;
+		padding: 5px 0;
+		color: #444135;
+		text-decoration: none;
+		border: 0px;
+	}
+	.menu > li:first-child {
+	}
+
+	/* Toggle the navigation bar open  */
+
+	.menu.open { 
+		height: auto; 
+		padding: 2px 30px 3px 0px;
+	}
+	.menu.open li { 
+		display: block; 
+	}
+
+	/* Submenus – optional .parent class indicates dropdowns */
+
+
+
+
+} /* End Mobile Styles */
+

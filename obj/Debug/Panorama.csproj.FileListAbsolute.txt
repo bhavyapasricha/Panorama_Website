@@ -1,0 +1,10 @@
+E:\abc\Panorama-Website\Panorama\Panorama\bin\Panorama.dll
+E:\abc\Panorama-Website\Panorama\Panorama\bin\Panorama.pdb
+E:\abc\Panorama-Website\Panorama\Panorama\obj\Debug\Panorama.csprojResolveAssemblyReference.cache
+E:\abc\Panorama-Website\Panorama\Panorama\obj\Debug\Panorama.dll
+E:\abc\Panorama-Website\Panorama\Panorama\obj\Debug\Panorama.pdb
+C:\Users\Akshay\Desktop\Panorama\Panorama\bin\Panorama.dll
+C:\Users\Akshay\Desktop\Panorama\Panorama\bin\Panorama.pdb
+C:\Users\Akshay\Desktop\Panorama\Panorama\obj\Debug\Panorama.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\Desktop\Panorama\Panorama\obj\Debug\Panorama.dll
+C:\Users\Akshay\Desktop\Panorama\Panorama\obj\Debug\Panorama.pdb
